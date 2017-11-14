@@ -23,6 +23,7 @@ Results with shuffling:
   - Game lengths follow a pretty nice curve
   - Longest game is usually around 2000 rounds
   - No games went infinite
+  - 0.4% of games ended after less than 26 rounds, which means that fewer rounds were played than the number of cards each player started with
   
 Results without shuffling:
   - Average game takes about 500 rounds
